@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9b1130d-97f4-4c2c-b894-4e4fb1575ed0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../Inventory-Tutorial-Series/InventorySeries/Assets/Scripts/HealthItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/Base/AIHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon Generation/EncounterSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon Generation/RoomSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Dungeon Generation/RoomTemplates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Displacement.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/Base/AIMovementScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/0c/8cc7e1b7/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/Base/AICombat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerCombat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/HealthPotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HealthFiller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PauseMenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Slot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base/CameraControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Base/CameraShake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Inventory-Tutorial-Series/InventorySeries/Assets/Scripts/Inventory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/Boss Behaviour/BossEncounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Inventory-Tutorial-Series/InventorySeries/Assets/Scripts/Pickup.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/AttackBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCombat.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI_IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI_WalkState.cs" />
+        <option value="$PROJECT_DIR$/Assets/HurtBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/Base/AIMovementScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI_AttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/Base/AICombat.cs" />
+        <option value="$PROJECT_DIR$/Assets/DeadBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI_HurtState.cs" />
+        <option value="$PROJECT_DIR$/Assets/AIDeadBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/AI_RunState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Cursor.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthFiller.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/../../Inventory-Tutorial-Series/InventorySeries/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pickup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Slot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spawn.cs" />
+        <option value="$PROJECT_DIR$/../../Inventory-Tutorial-Series/InventorySeries/Assets/Scripts/HealthItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Health Potion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/HealthFiller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/HealthPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/PauseMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PauseMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoomDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/EncounterTemplates.cs" />
+        <option value="$PROJECT_DIR$/Assets/EncounterSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoomSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameOverState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/Base/AIHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameOverStateManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AddRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoomTemplates.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/BossEncounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Base/CameraControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Wave.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/HealthEffect.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Displacement.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cM49XS42axfx5oztnI08TSL5oz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9b1130d-97f4-4c2c-b894-4e4fb1575ed0" name="Default Changelist" comment="" />
+      <created>1590324978766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590324978766</updated>
+      <workItem from="1590324983189" duration="592000" />
+      <workItem from="1593618121323" duration="2144000" />
+      <workItem from="1593695761692" duration="22220000" />
+      <workItem from="1593775382873" duration="9231000" />
+      <workItem from="1593799566869" duration="16999000" />
+      <workItem from="1593855070787" duration="1621000" />
+      <workItem from="1593859175597" duration="3121000" />
+      <workItem from="1604504321055" duration="27000" />
+      <workItem from="1604603762825" duration="6282000" />
+      <workItem from="1605790562572" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="243" key="run.anything.popup" />
+    <state x="616" y="243" key="run.anything.popup/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
