@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_HomeWork_Healthbar.-1442661563.00" t="ExcludeRecursive" />
+    <e p="D:\Users\User\Documents\GitHub\UnityHWHealthbar\HomeWork_Healthbar" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Gothicvania Cemetery Artwork" t="Include">
+          <e p="about.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AI" t="Include">
+            <e p="AIAttackDeciderState.cs" t="Include" />
+            <e p="AICrouchState.cs" t="Include" />
+            <e p="AIDeciderState.cs" t="Include" />
+            <e p="AIJumpKickState.cs" t="Include" />
+            <e p="AIJumpState.cs" t="Include" />
+            <e p="AIMoveToPlayerState.cs" t="Include" />
+            <e p="AIPunchState.cs" t="Include" />
+            <e p="AIRetreatState.cs" t="Include" />
+            <e p="AIWaitState.cs" t="Include" />
+          </e>
+          <e p="Controlls.cs" t="Include" />
+          <e p="DieState.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
+          <e p="MovementController.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="MonkCrouchKickingState.cs" t="Include" />
+            <e p="MonkCrouchState.cs" t="Include" />
+            <e p="MonkFallState.cs" t="Include" />
+            <e p="MonkIdleWalkBlendState.cs" t="Include" />
+            <e p="MonkJumpKickState.cs" t="Include" />
+            <e p="MonkJumpState.cs" t="Include" />
+            <e p="MonkPunchState.cs" t="Include" />
+          </e>
+          <e p="StateMachineUtil.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="HealthBar.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="HomeWork_Healthbar.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
