@@ -17,3 +17,12 @@ A Regular grammar is a grammar that produces a regular language it's a structure
 | S - starting variable | If we follow the rule that S should be an element of N we are okay because S is also a room that can lead to another room and it is the only one that can lead to room in all directions |
 | P - Rules | The rules are actually codded into the spawn points - If one point collides with another it spawnes a terminal variable (a closed room), if one point collides with a room it destroys the point and the room becomes a terminal variable, in one point doesn't collide it will remain still until on it the algorithm spawns anoter room so it remains in the set of non-terminal variables |
 
+## Enemies
+| Enemy | Attack type | Image |
+| :-: | :-: | :-: |
+| Orc | Melee | ![3_enemies_1_idle_001](https://user-images.githubusercontent.com/25185815/132091495-7298a218-836e-4d79-80cb-823fc3408e66.png) |
+| Murder Ghost | Range | ![9_enemies_1_idle_000](https://user-images.githubusercontent.com/25185815/132091520-c28e6b3b-a0bf-48b6-a734-64ec3cc8e4d0.png) |
+| Scorpio | Melee | ![1_enemies_1_idle_000](https://user-images.githubusercontent.com/25185815/132091556-f0d16ef5-fc18-4461-b01b-bdb90e64611a.png) |
+| Death Knight | ![10_enemies_1_idle_000](https://user-images.githubusercontent.com/25185815/132091587-95ebe4c3-9cf8-424e-9972-7b714eda7d2d.png) |
+
+
