@@ -17,6 +17,9 @@ A Regular grammar is a grammar that produces a regular language it's a structure
 | S - starting variable | If we follow the rule that S should be an element of N we are okay because S is also a room that can lead to another room and it is the only one that can lead to room in all directions |
 | P - Rules | The rules are actually codded into the spawn points - If one point collides with another it spawnes a terminal variable (a closed room), if one point collides with a room it destroys the point and the room becomes a terminal variable, in one point doesn't collide it will remain still until on it the algorithm spawns anoter room so it remains in the set of non-terminal variables |
 
+### You can see more of PCG principles and their implementation in my lecture
+https://www.youtube.com/watch?v=Ad797ktFHgY
+
 ## Enemies
 | Enemy | Attack type | Image |
 | :-: | :-: | :-: |
